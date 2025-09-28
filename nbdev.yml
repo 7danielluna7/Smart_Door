@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Smart_Door"
+  site-url: "https://7danielluna7.github.io/Smart_Door"
+  description: "Using machine learning to open a door"
+  repo-branch: main
+  repo-url: "https://github.com/7danielluna7/Smart_Door"
